@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarcraftLogsViewer.ConsoleUI", "WarcraftLogsViewer.Console\WarcraftLogsViewer.ConsoleUI.csproj", "{3E63F19B-A190-426E-9950-F4334BBDAED9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WarcraftLogsViewer.ConsoleUI", "WarcraftLogsViewer.Console\WarcraftLogsViewer.ConsoleUI.csproj", "{3E63F19B-A190-426E-9950-F4334BBDAED9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarcraftLogs.Client", "WarcraftLogs.Client\WarcraftLogs.Client.csproj", "{A14997BA-E4AA-4139-8E40-171FE42823A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarcraftLogsViewer.Core", "WarcraftLogsViewer.Core\WarcraftLogsViewer.Core.csproj", "{2ACC9CEA-95EA-4EF8-AD36-81F775795956}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{3E63F19B-A190-426E-9950-F4334BBDAED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E63F19B-A190-426E-9950-F4334BBDAED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E63F19B-A190-426E-9950-F4334BBDAED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A14997BA-E4AA-4139-8E40-171FE42823A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A14997BA-E4AA-4139-8E40-171FE42823A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A14997BA-E4AA-4139-8E40-171FE42823A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A14997BA-E4AA-4139-8E40-171FE42823A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ACC9CEA-95EA-4EF8-AD36-81F775795956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ACC9CEA-95EA-4EF8-AD36-81F775795956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ACC9CEA-95EA-4EF8-AD36-81F775795956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ACC9CEA-95EA-4EF8-AD36-81F775795956}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,19 @@
+{
+  "BaseUrl": "https://www.warcraftlogs.com/reports",
+  "Pins": {
+    "General": [
+      "0$Separate$#909049$damage$1$0.0.0.Any$0.0.0.Any$true$0.0.0.Any$false$0",
+      "0$Separate$#a04D8A$healing$0$0.0.0.Any$185746568.0.0.Priest|166320654.0.0.Druid|166946249.0.0.Priest$true$0.0.0.Any$false$0",
+      "0$Separate$#a04D8A$healing$0$0.0.0.Any$185746568.0.0.Priest$true$0.0.0.Any$false$114908"
+    ],
+
+    "Specific": [
+      {
+        "Name": "Hungering",
+        "Pins": [
+          "0$Separate$rgb(78%, 61%, 43%)$damage$1$0.0.0.Any$0.0.0.Any$true$0.0.0.Any$false$329455|334523"
+        ]
+      }
+    ]
+  }
+}
